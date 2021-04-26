@@ -1,3 +1,6 @@
+All credit and license to the code goes to Chandrika Deb. This is just a temporary forked repo to colaborate and test the model I trained.
+
+
 <h1 align="center">Face Mask Detection</h1>
 
 <div align= "center">
